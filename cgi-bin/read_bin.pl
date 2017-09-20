@@ -778,7 +778,7 @@ END
 		
 		# get the score
 		
-		my $score = sprintf("%.0f", $score{$unit_id_target}{$unit_id_source});
+		my $score = sprintf("%.3f", $score{$unit_id_target}{$unit_id_source});
 
 		# a guide to which tokens are marked in each text
 	
