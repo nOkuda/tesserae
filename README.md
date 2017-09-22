@@ -1,6 +1,7 @@
 ## First Time Installation
 
 * scripts/configure.pl
+* scripts/install.pl
 * scripts/build-stem-cache.pl
 
 ## Index New Document
@@ -10,7 +11,7 @@
 
 ## Prepare Corpus Statistics
 
-* scripts/v3/corpus-stats.pl <la/gr>
+* scripts/v3/corpus-stats.pl <la/gr> --feature=stem
 
 ## Run Search
 
